@@ -1,0 +1,12 @@
+body{
+    width: 500px;
+    margin: auto;
+    font-family:"Public Sans", Light
+}
+body{
+    background-color: pink;
+}
+h1{
+    font-family:"Public Sans";
+    font-weight: 800;
+}
